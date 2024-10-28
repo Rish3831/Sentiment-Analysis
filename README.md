@@ -4,6 +4,8 @@ This project utilizes natural language processing (NLP) to perform sentiment ana
 
 ![Screenshot 2024-10-28 161351](https://github.com/user-attachments/assets/8abfaef9-387d-46c3-8e46-03b6b4c53588)
 
+![Screenshot 2024-10-28 161404](https://github.com/user-attachments/assets/a40c3f14-c575-4958-9780-874bd051ddde)
+
 ## Project Structure
 
 - **Data Preprocessing**: Includes data cleaning, lowercasing, emoji handling, removing special characters and stopwords, and text lemmatization.
