@@ -71,3 +71,7 @@ Visualizations include:
 Install the dependencies with:
 ```bash
 pip install -r requirements.txt
+```
+## Results and Conclusion
+**Best Model**: The LSTM model with an accuracy of approximately 98% after hyperparameter tuning.
+**Recommendation**: Use the LSTM model for sentiment classification on movie reviews given its superior performance on this dataset.
