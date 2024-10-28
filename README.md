@@ -37,12 +37,22 @@ Visualizations include:
    
 2. **Support Vector Machine (SVM)**:
    - Feature extraction using TF-IDF vectorizer.
-   - Achieved accuracy: ~84% (after tuning).
+   - Achieved accuracy: ~88% (after tuning).
    
 3. **Random Forest**:
    - Accuracy: ~54% with default parameters.
-   - Optimized accuracy: ~53% after hyperparameter tuning.
-
+   - Optimized accuracy: ~57% after hyperparameter tuning.
+  
+  ## Deep Learning Models and Results
+  
+1. **LSTM**:
+   - Baseline accuracy: ~79%.
+   - Tuned accuracy after Grid Search: ~98%.
+  
+1. **Logistic Regression**:
+   - Baseline accuracy: ~81%.
+   - Tuned accuracy after Grid Search: ~96%.
+     
 ## Dependencies
 
 - `pandas`
