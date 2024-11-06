@@ -1,6 +1,6 @@
 # Sentiment Analysis of IMDB Movie Reviews
 
-This project utilizes natural language processing (NLP) to perform sentiment analysis on IMDB movie reviews, aiming to classify each review as either positive or negative. The project focuses on data preprocessing, tokenization, feature extraction, and evaluation using various machine learning models.
+This project utilizes natural language processing (NLP) to perform sentiment analysis on IMDB movie reviews, aiming to classify each review as either positive or negative. The project focuses on web scraping, data preprocessing, tokenization, feature extraction, and evaluation using various machine learning models.
 
 ![Screenshot 2024-10-28 161351](https://github.com/user-attachments/assets/8abfaef9-387d-46c3-8e46-03b6b4c53588)
 
